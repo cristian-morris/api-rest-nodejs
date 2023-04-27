@@ -1,0 +1,14 @@
+Api rest sobre pizzas.
+esta api fue creada para un proyecto de consumir un API REST, cuenta con las 
+acciones de un CRUD basico, GET, GET por id, PUT, DELETE, UPDATE, SEARCH,
+el api utiliza una base de datos SQL hosteada, asi que puede correr esta api de forma
+local sin ningun problema.
+
+rutas del api 
+GET : http://localhost:3000/api/pizza ,
+GET por id : http://localhost:3000/api/pizza/id ,
+PUT: http://localhost:3000/api/pizza ,
+UPDATE: http://localhost:3000/api/pizza/id ,
+DELETE : http://localhost:3000/api/pizza/id ,
+SEARCH: http://localhost:3000/api/pizza/precio ,
+SEARCH: http://localhost:3000/api/pizza/nombre
